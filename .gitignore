@@ -1,6 +1,7 @@
 */*
 !resourcepacks/**
-resourcepacks/Sonomagy TC4 v1.6.zip
+resourcepacks/Sonomagy TC4*
+resourcepacks/.index/
 !config/**
 !scripts/**
 !structures/**
