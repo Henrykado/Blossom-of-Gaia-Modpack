@@ -1,0 +1,14 @@
+{
+  "id": "at:openblocks",
+  "condition": {
+    "type": "item.craft",
+    "item": "OpenBlocks:infoBook"
+  },
+  "page": null,
+  "x": 4,
+  "y": -4,
+  "parent": "achievement.killCow",
+  "icon": {
+    "registryName": "OpenBlocks:infoBook"
+  }
+}

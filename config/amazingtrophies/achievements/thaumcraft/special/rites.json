@@ -1,0 +1,17 @@
+{
+  "id": "at:rites",
+  "condition": {
+    "type": "item.use.start",
+    "item": "Thaumcraft:ItemEldritchObject",
+	"meta": 1
+  },
+  "page": "Thaumcraft",
+  "x": -3,
+  "y": 1,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:ItemEldritchObject",
+	"meta": 1
+  },
+  "isSpecial": true
+}

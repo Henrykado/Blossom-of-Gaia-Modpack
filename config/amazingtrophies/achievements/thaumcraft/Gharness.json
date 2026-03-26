@@ -1,0 +1,14 @@
+{
+  "id": "at:harness",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:HoverHarness"
+  },
+  "page": "Thaumcraft",
+  "x": 14,
+  "y": -2,
+  "parent": "at:boots",
+  "icon": {
+    "registryName": "Thaumcraft:HoverHarness"
+  }
+}

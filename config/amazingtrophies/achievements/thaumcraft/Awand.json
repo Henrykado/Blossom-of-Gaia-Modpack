@@ -1,0 +1,14 @@
+{
+  "id": "at:wand",
+  "condition": {
+    "type": "item.craft",
+    "item": "Thaumcraft:WandCasting"
+  },
+  "page": "Thaumcraft",
+  "x": 0,
+  "y": 0,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:WandCasting"
+  }
+}

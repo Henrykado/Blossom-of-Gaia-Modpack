@@ -1,0 +1,14 @@
+{
+  "id": "at:tophat",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemGolemDecoration"
+  },
+  "page": "Thaumcraft",
+  "x": 5,
+  "y": 3,
+  "parent": "at:golem",
+  "icon": {
+    "registryName": "Thaumcraft:ItemGolemDecoration"
+  }
+}

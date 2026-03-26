@@ -1,0 +1,14 @@
+{
+  "id": "at:firework",
+  "condition": {
+    "type": "item.use.start",
+    "item": "minecraft:fireworks"
+  },
+  "page": null,
+  "x": 9,
+  "y": 0,
+  "parent": "achievement.killEnemy",
+  "icon": {
+    "registryName": "minecraft:fireworks"
+  }
+}

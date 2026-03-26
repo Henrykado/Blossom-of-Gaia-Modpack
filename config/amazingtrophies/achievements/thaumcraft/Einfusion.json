@@ -1,0 +1,16 @@
+{
+  "id": "at:infusion",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockStoneDevice",
+	"meta": 2
+  },
+  "page": "Thaumcraft",
+  "x": 10,
+  "y": 0,
+  "parent": "at:goggles",
+  "icon": {
+    "registryName": "Thaumcraft:blockStoneDevice",
+	"meta": 2
+  }
+}

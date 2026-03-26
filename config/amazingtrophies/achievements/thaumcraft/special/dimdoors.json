@@ -1,0 +1,15 @@
+{
+  "id": "at:dimdoors",
+  "condition": {
+    "type": "item.craft",
+    "item": "dimdoors:Dimensional Door Item"
+  },
+  "page": "Thaumcraft",
+  "x": -5,
+  "y": 1,
+  "parent": null,
+  "icon": {
+    "registryName": "dimdoors:Dimensional Door Item"
+  },
+  "isSpecial": true
+}

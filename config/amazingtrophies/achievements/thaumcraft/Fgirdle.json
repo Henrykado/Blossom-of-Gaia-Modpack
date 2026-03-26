@@ -1,0 +1,14 @@
+{
+  "id": "at:girdle",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemGirdleRunic"
+  },
+  "page": "Thaumcraft",
+  "x": 11,
+  "y": -4,
+  "parent": "at:infusion",
+  "icon": {
+    "registryName": "Thaumcraft:ItemGirdleRunic"
+  }
+}

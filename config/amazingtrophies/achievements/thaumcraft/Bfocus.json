@@ -1,0 +1,14 @@
+{
+  "id": "at:focus",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:FocusFire"
+  },
+  "page": "Thaumcraft",
+  "x": 3,
+  "y": 3,
+  "parent": "at:book",
+  "icon": {
+    "registryName": "Thaumcraft:FocusFire"
+  }
+}

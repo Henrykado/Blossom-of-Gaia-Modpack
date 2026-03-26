@@ -1,0 +1,16 @@
+{
+  "id": "at:bore",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockWoodenDevice",
+	"meta": 5
+  },
+  "page": "Thaumcraft",
+  "x": 12,
+  "y": 2,
+  "parent": "at:infusion",
+  "icon": {
+    "registryName": "Thaumcraft:blockWoodenDevice",
+	"meta": 5
+  }
+}

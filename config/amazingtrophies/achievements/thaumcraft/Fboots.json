@@ -1,0 +1,14 @@
+{
+  "id": "at:boots",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:BootsTraveller"
+  },
+  "page": "Thaumcraft",
+  "x": 12,
+  "y": -2,
+  "parent": "at:infusion",
+  "icon": {
+    "registryName": "Thaumcraft:BootsTraveller"
+  }
+}

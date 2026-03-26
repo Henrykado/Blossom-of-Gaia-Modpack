@@ -1,0 +1,14 @@
+{
+  "id": "at:thaumometer",
+  "condition": {
+    "type": "item.use.start",
+    "item": "Thaumcraft:ItemThaumometer"
+  },
+  "page": "Thaumcraft",
+  "x": 5,
+  "y": 0,
+  "parent": "at:book",
+  "icon": {
+    "registryName": "Thaumcraft:ItemThaumometer"
+  }
+}

@@ -1,0 +1,576 @@
+entity.ItemFrame.name=Item Frame
+entity.etfuturum.new_boat_seat.name=Boat
+entity.aether_legacy.crystal.name=Crystal
+
+
+tc.research_page.ORE.1=§l       §nInfused Stone§r<BR><IMG>thaumcraft:textures/misc/research4.png:0:0:128:128:.6</IMG><BR>On occasion there is so much primal energy in an aura node that it will settle into solid stone to form Infused Ore, this proccess, when possible, will happen area in a 3-block radius around the node. The magic forms crystals within the rock that can be harvested.
+
+tc.research_page.CRUCIBLE.N=§nCreating Vis Shards§r<BR><BR>Regular vis shards can also be acquired by simply infusing nether quartz with the necessary primal element.<BR><BR>The next page contains an example of using alchemy to create an air shard from quartz.
+
+
+botania.category.buildcraft=Artificial Mechanisms
+
+# -- RING OF DEXTEROUS MOTION
+botania.entry.dodgeRing=Ring of Dexterous Motion
+botania.tagline.botania.entry.dodgeRing=Sweep to the side to dodge attacks
+
+botania.page.dodgeRing0=The &1Ring of Dexterous Motion&0 is a handy bauble to help prevent damage during combat. While worn, one can press their &4left/right&0 keys (which are &4A and D&0, respectively, by default) to quickly sweep to the side and dodge incoming attacks or mobs.<br>The dodge ability goes through a short cooldown before it can be used again, and uses up some of the user's stamina.
+botania.page.dodgeRing1=Dexterity bonus
+
+
+# -- INVISIBILITY CLOAK
+botania.entry.invisibilityCloak=Invisibility Cloak
+botania.tagline.botania.entry.invisibilityCloak=Exactly what it says on the tin
+
+botania.page.invisibilityCloak0=Not much explanation is required for the &1Invisibility Cloak&0.<br>It's a bauble worn on the &4body&0 slot, that will take &4Mana&0 from the wearer's inventory to make them, and their baubles invisible as long as it's worn and the cost is fulfilled.
+botania.page.invisibilityCloak1=you're a wizard, steve
+
+# -- CIRRUS AMULET
+botania.entry.cloudPendant=Cloud Pendant
+botania.tagline.botania.entry.cloudPendant=Gives you double jump
+
+botania.page.cloudPendant0=The &1Cloud Pendant&0 is a bauble that can be worn in the &4amulet&0 slot.<br>While being worn, the wearer is granted the ability to &4double jump&0, the second jump negating all currently accumulated fall momentum and damage that would occur from the fall.
+botania.page.cloudPendant1=It's all in the cloud
+
+
+#You may have noticed that, in the overworld, there aren't any mystical flowers to be found!<br>Not to worry, however, as they can still be obtained by grinding &1Shimmering Mushrooms&0 into dust and using said dust to make &1Floral Fertilizer&0.
+
+
+# Aether
+botania.entry.aether=The Path to the Aether
+botania.tagline.botania.entry.aether=Great heavens
+
+botania.page.aether0=&1The Aether&0 is the opposite of &4The Nether&0, while still being similar in how dangerous it is.<br>To go to this dimension you need to make a portal, one like the nether portal, but instead of obsidian you use glowstone, and instead of lighting it with a &4Flint and Steel&0 you need to use a &1Skyroot Water Bucket&0 on the portal frame.
+
+botania.page.aether1=To the sky!
+
+
+# Nature Compass
+botania.entry.natcompass=Nature's Compass
+botania.tagline.botania.entry.natcompass=Biome finder
+
+botania.page.natcompass0=The &1Nature's Compass&0 is a special compass aligned with nature.<br>Using it allows you to search for a biome, if found it will tell you the exact coordinates of said biome and point towards it.
+botania.page.natcompass1=Nature's Compass
+
+
+# Portal Gun
+botania.entry.portalgun=Portal Gun
+botania.tagline.botania.entry.portalgun=Thinking with portals
+
+botania.page.portalgun0=The &1Portal Gun&0 is a device capable of creating &4two linked portals&0 capable of teleporting anyone that goes through them.<br>There are a few variants of the default portal gun, each with their own colors that won't link with portals created by the others.
+botania.page.portalgun1=When life gives you lemons...
+botania.page.portalgun2=PotatOS
+botania.page.portalgun3=OW! You stabbed me!
+
+botania.page.portalgun4=Atlas' Portal Gun
+botania.page.portalgun5=P-Body's Portal Gun
+
+
+
+# Pipes
+botania.entry.pipes=Basics: Pipes
+botania.tagline.botania.entry.pipes=Universal transportation
+
+botania.page.pipes0=&1Pipes&0 are one of the best and most convenient ways of transporting &oitems&r, &oliquids&r, and &opower&r around your world.<br>These pipes can be made from a multitude of materials, each pipe has different properties that make them unique from the rest.
+
+botania.page.pipes1=Extracts items from inventory, needs power/RF.
+
+botania.page.pipes2=Basic transport pipe.
+
+botania.page.pipes3=Basic transport pipe, low drag.
+
+botania.page.pipes4=Speeds up passing items.
+
+botania.page.pipes5=Sorts items, configured through GUI.
+
+botania.page.pipes6=Routes items, change direction with Wrench.
+
+botania.page.pipes7=Round-robin extraction pipe with a filter.
+
+botania.page.pipes8=Inserts into close, non-full inventories.
+
+botania.page.pipes9=Sucks up nearby dropped items.
+
+botania.page.pipes10=The Lazuli, Daizuli and Emzuli pipes are special paint-related pipes.<br>The Lazuli pipe paints items that go through it (black by default, color can be changed with a Wrench), the Emzuli pipe is a gate-controlled extraction pipe with four extraction presets, allowing you to filter and/or paint the specified items, and the Daizuli pipe will sort items based on their color.
+
+botania.page.pipes11=Lazuli Transport Pipe
+botania.page.pipes12=Daizuli Transport Pipe
+botania.page.pipes13=Emzuli Transport Pipe
+
+botania.page.pipesC=Additionally, to create fluid and kinesis/power pipes one needs to simply add cactus green and redstone dust to an item pipe, this will convert that pipe into it's fluid/kinesis equivalent.
+
+botania.page.pipesF=Converting an item pipe into a fluid pipe.
+
+botania.page.pipesK=Converting an item pipe into a kinesis pipe.
+
+
+# Additional Pipes
+botania.entry.apipes=Even More Pipes!
+botania.tagline.botania.entry.apipes=Additional pipes
+
+botania.page.apipes0=Regular pipes are fine and all, but sometimes you need more control over each item and where they go, that's where these additional pipes come in.<br><br>The &4Addition Transport Pipe&0 will add an item to an inventory only if there is some of that item in said inventory. Useful for simple sorting.
+botania.page.apipes1=The &4Obsidian Fluid Pipe&0 will extract the liquid from full buckets and suck in nearby items if powered by a redstone engine.
+botania.page.apipes2=Addition Transport Pipe
+botania.page.apipes3=Obsidian Fluid Pipe
+
+botania.page.apipes4=Outputs a specific ratio of items to each side.
+botania.page.apipes5=Clay pipe + Distribution pipe hybrid
+botania.page.apipes6=Gravity-fed extraction pipe.
+botania.page.apipes7=Will disconnect when given a redstone signal.
+botania.page.apipes8=A dead end with an inventory.
+botania.page.apipes9=An upgrade to the Diamond pipe.
+
+
+# Engines
+botania.entry.engines=Basics: Engines
+botania.tagline.botania.entry.engines=Powers your machines
+
+botania.page.engines0=Engines are machines that once powered with &4redstone&0 will begin generating &4Redstone Flux&0, a form of energy used by most machines.<br>Additionally, engines will heat up over time, changing colors as they do so, when overheated, engines will flash red and then explode, with the exception being the Redstone Engine.
+botania.page.engines1=Each type of engine has different requirements that need to be met before they can generate power:<br>The &oRedstone Engine&r requires &4redstone&0 power to function and can't overheat.<br>The &oStirling Engine&r requires fuel items, like a furnace.<br>Lastly, the &oCombustion Engine&r requires either Oil or Fuel,
+botania.page.engines3=it can also receive a coolant liquid (like water) to prevent it from overheating.
+botania.page.engines2=Redstone Engine
+botania.page.engines4=Stirling Engine
+botania.page.engines5=Combustion Engine
+
+
+# Oil, Fuel, Tanks
+botania.entry.oil=Basics: Oil & Fuel
+botania.tagline.botania.entry.oil=Highly combustible
+
+botania.page.oil=Oil is a resource that generates in reserves around the world, it can be used in Combustion Engines to generate power, however, it can also be refined into Fuel by using a &4Refinery&0, that way, it will generate double the amount of power than it would otherwise.
+botania.page.oil2=Oil -> Fuel
+
+
+# Tank
+botania.entry.tank=Liquid Manipulation
+botania.tagline.botania.entry.tank=Store, pump, and flood
+
+botania.page.tank0=&1Tanks&0 are a convenient way of storing liquids, each tank is able to hold 16 buckets, but that limit can be increased by stacking multiple tanks on top of each other.<br>Liquids can be inserted manually or automatically by using liquid pipes.
+botania.page.tank1=Just a Tank
+
+botania.page.tank2=The &1Pump&0, when powered with &4redstone flux&0, will extend a pipe from it's bottom side and extract all the liquid in the area.<br>It will automatically try to insert pumped liquid into nearby tanks or liquid pipes.
+botania.page.tank3=Suck. It. Up.
+
+botania.page.tank4=The &1Flood Gate&0 is essentially the &4opposite&0 of the &1Pump&0, when liquid is piped into it, it will attempt to fill the space below it with said liquid.<br>It can be closed with a redstone signal.
+botania.page.tank5=Open the flood gates!
+
+
+
+# Mining Well
+botania.entry.mwell=Mining Well
+botania.tagline.botania.entry.mwell=Digs a hole 'til bedrock
+
+botania.page.mwell0=The Mining Well is a machine that, when provided with power, will begin breaking the blocks directly beneath it, a mining pipe extending from it as it does so. It will only stop once it reaches either lava or bedrock.<br>Any block mined will pop out of the machine unless it has a pipe or container next to it, in that case it will output to them automatically.
+botania.page.mwell1=Diggy diggy
+
+
+# Wrench
+botania.entry.wrench=Basics: Wrench
+botania.tagline.botania.entry.wrench=Not a wand
+
+botania.page.wrench0=The &1Wrench&0 is a useful tool to manipulate pipes and machines with.<br>Similarly to the &1Wand of the Forest&0, the Wrench can rotate certain blocks. By using it on pipes you can change their orientation, in the case of the iron pipe it will change it's output side, using it while sneaking will disconnect the side of the pipe you're looking at.
+botania.page.wrench1=Some king of crescent hammer
+
+
+#Chute
+botania.entry.chute=Chute
+botania.tagline.botania.entry.chute=Gravity-fed inventory
+
+botania.page.chute0=The &1Chute&0 is a cheaper and faster alternative to the &4Hopper&0.<br>As a downside, the &1Chute&0 has only four inventory slots, can only face downwards and dropped items won't be extracted by it.<br>Additionally, when given &4power&0, the &1Chute&0 will begin inserting items into pipes beneath it.
+botania.page.chute1=(Previously known as the hopper)
+botania.page.chute2=Converting a hopper into a chute
+
+
+
+#Assembly Table
+botania.entry.laser=Basics: Assembly Table
+botania.tagline.botania.entry.laser=Craft items with RF
+
+botania.page.laser0=The &4Assembly Table&0 is mainly used to make materials, however it can also make other useful advanced items like &1pipe gates&0.<br>To start the crafting proccess one or more nearby &4Laser&0 blocks need to be supplied with &4power&0.
+botania.page.laser1=Assembly Table
+botania.page.laser2=Laser
+//Redstone Chipset -> 1 redstone dust<br>Iron Chipset -> 1 redstone dust, 1 iron<br>Golden Chipset -> 1 redstone dust, 1 gold<br>Diamond Chipset -> 1 redstone dust, 1 diamond<br>Pulsating Chipset (2) -> 1 redstone dust, 1 ender pearl<br>Quartz Chipset -> 1 redstone dust, 1 quartz<br>Redstone Comp Chipset -> 1 redstone dust, 1 redstone comparator<br>Emerald Chipset -> 1 redstone dust, 1 emerald
+botania.page.laser5=You can also make &4lenses&0 and &4filters&0 for pipes!<br>Similarly to &1Lazuli pipes&0, &4lenses&0 will paint items that go through them.<br>And, similarly to &1Daizuli pipes&0, &4filters&0 will filter items that go through them based on color, if the item's color doesn't match the filter it will be sent backwards
+botania.page.laser4=As for the recipes, press U while hovering over the Assembly Table on your inventory or NEI to see all the recipes (yes i am lazy shut up).
+
+
+# Gates
+botania.entry.gates=Pipe Gates
+botania.tagline.botania.entry.gates=Advanced pipe logic
+
+botania.page.gates0=&4Pipe gates&0 are devices that can be attached to pipes, you can make them do certain actions depending on certain conditions, these conditions are based on the block the pipe is connected to. For example, when the pipe the gate is on is connected to a &1chest&0 the gate will receive inventory-related conditions.
+botania.page.gates1=To assemble gates you'll need a chipset and pipe wire, both made in the Assembly Table.<br>These pipe wires can be attached to pipes and are gate controlled, allowing you to easily send signals between gates. (red wires can only be used by iron gates or better, blue and yellow wires only by gold gates or better, and green wires only by quartz gates or better)
+botania.page.gates2=Basic Gate (in Assembly Table - 25000 RF)
+botania.page.gates3=Red Pipe Wire (in Assembly Table - 5000 RF)
+botania.page.gates4=Blue Pipe Wire (in Assembly Table - 5000 RF)
+botania.page.gates5=Green Pipe Wire (in Assembly Table - 5000 RF)
+botania.page.gates6=Yellow Pipe Wire (in Assembly Table - 5000 RF)
+
+botania.page.gatesX=AND gates have multiple conditions and will only do an action once all of them are met.<br>While OR gates will activate as long as at least one condition is met.<br><br>The gate progression is as follows:  Iron -> Quartz -> Gold -> Diamond -> Emerald.
+
+botania.page.gatesX2=Using the Integration Table you can install expansions onto a regular gate, adding new conditions to it.<br>The Redstone Fader expansion allows you to detect redstone power levels. (made with a Redstone Comp Chipset)<br>The Clock Timer lets you do actions every 5, 10, or 15 seconds. (made with a Quartz Chipset)
+botania.page.gatesX3=The Autarchic Pulsar allows the gate to function as a free engine. (made with a Pulsating Chipset)<br>Finally, the Light Sensor detects whether it's bright or dark around the gate. (made with a Daylight Detector)
+botania.page.gatesX4=Integration Table
+
+
+# Redstone Basics
+botania.entry.bredstone=Redstone 101
+botania.tagline.botania.entry.bredstone=The basics of redstone
+
+botania.page.bredstone0=It is of extreme importance that you have at least a basic understanding of redstone and how it works to use all of these automation devices to their fullest potential.<br>Redstone power is transmitted through redstone dust and starts of with a signal strength of 14, each block it travels decreasing that strength until it runs out.
+
+botania.page.bredstone1=The Redstone Torch is the most basic redstone component (besides redstone dust) but also one of the most essential in most redstone circuits.<br>By powering the block it is on, the Redstone Torch will be "put out" and lose it's power. This property allows you to make simple logical gates.
+botania.page.bredstone2=In case you somehow didn't know this already.
+
+botania.page.bredstone3=The Redstone Repeater will repeat a signal with full strength, however with a delay of 1 to 4 ticks, this delay can be adjusted by interacting with the repeater.<br>The Redstone Comparator, it uh... has two modes i guess? Anyways it can also read certain block states, so for example, chests will give a signal strength depending on the amount of items in them.
+botania.page.bredstone4=Redstone Repeater
+botania.page.bredstone5=Redstone Comparator
+
+botania.page.bredstone6=Another interesting property of redstone is that blocks, when directly powered, activate redstone components just like redstone dust, so you could direct a repeater into a block and have redstone dust on the other side and that dust would still get powered since the block is able to conduct it.
+
+
+# Red Power
+botania.entry.rpgate=Red Power
+botania.tagline.botania.entry.rpgate=Compact redstone circuits
+
+botania.page.rpgate0=By crafting &4small redstone circuit plates&0 you can assemble an entire &4redstone circuit&0 comprised of a single block.<br>Gates, Latches and Cells, these circuits allow you to more easily create complex redstone contraptions.
+
+botania.page.rpgate1=AND Gate, requires both inputs to be activated
+
+botania.page.rpgate2=Buffer with 1 input and 3 outputs
+
+botania.page.rpgate3=Latch, every pulse toggles it's lever
+
+botania.page.rpgate4=Creates a short redstone pulse when powered
+
+botania.page.rpgate5=Allows two redstone lines to cross independently
+
+botania.page.rpgate6=When powered, creates a pulse after a set delay
+
+botania.page.rpgate7=Counter, one side adds, other subtracts
+
+botania.page.rpgate8=Randomly outputs redstone signals of varying lengths
+
+botania.page.rpgate9=Sequencially powers each side clockwise
+
+botania.page.rpgate10=Output changes depending on side powered
+
+botania.page.rpgate11=Redstone repeater with more delay options
+
+botania.page.rpgate12=There are a lot of other redstone circuits you can make, however these are the simplest to understand.
+
+
+# Redstone Wires
+botania.entry.rwires=Redstone Wires
+botania.tagline.botania.entry.rwires=Easy redstone dust
+
+botania.page.rwires0=&4Red Alloy wires&0 are an alternative to &4redstone dust&0 that can stick to &1walls&0 and &1ceilings&0, you can also insulate them to separate them by color and frame them to freely place wires without a supporting block, like pipes!<br>These are made with &4Red Alloy&0 ingots, made by combining iron ingots and redstone dust in an &4Assembly Table&0.
+botania.page.rwires1=Red Alloy Ingot (in Assembly Table - 4000 RF)
+botania.page.rwires2=Basic redstone wire.
+botania.page.rwires3=Insulated, color-coded wire.
+botania.page.rwires4=Switching between insulated wire colors
+botania.page.rwires5=Allows different color wires to intersect, no conflict.
+botania.page.rwires6=Framed Wires
+
+
+#Railcraft
+botania.entry.carts=Railcraft
+botania.tagline.botania.entry.carts=New minecarts and utilities
+
+botania.page.carts0=The &4Crowbar&0 is a tool used to &1link minecarts together&0, this can be done by using the crowbar on two minecarts while sneaking.<br>It can also be used as a weapon, of course.
+botania.page.carts1=All hail the free man!
+
+botania.page.carts2=Additionally, Railcraft adds new carts capable of transporting cargo, fluids, and even crafting tables.<br>The Cargo Cart differs from the Chest Cart in that it can only transport one kind of item at a time.
+
+botania.page.carts3=It's like a chest, but worse!
+botania.page.carts4=Crafting on the go.
+botania.page.carts5=Who needs pipes, anyway?
+
+botania.page.cartsL0=Some of these carts aren't very useful if you can't automatically put things inside them. That's where the Minecart Loaders and Unloaders come in, these can, respectively, insert/extract items and liquids into/from minecarts directly on top of them.
+botania.page.cartsL1=Item Loader
+botania.page.cartsL2=Item Unloader
+botania.page.cartsL5=Fluid Loader
+botania.page.cartsL6=Fluid Unloader
+
+botania.page.cartsT=Specialized new tracks are also here, giving you near full control over minecarts and their trajectory.<br>Most information about these and their functionality can be found in their tooltips.
+botania.page.cartsT0=4-way Junction Track
+botania.page.cartsT9=Suspended Track
+botania.page.cartsT7=Directional Detector Track
+botania.page.cartsT1=Control Track
+botania.page.cartsT2=Locking Track
+botania.page.cartsT8=Gated Track, a track with a literal gate on it
+botania.page.cartsT6=Gated One-way Track
+botania.page.cartsT3=Disembarking Track
+botania.page.cartsT4=Coupler Track
+
+
+# Steel
+botania.entry.steel=Railcraft: Steel Stuff
+botania.tagline.botania.entry.steel=Minecart stuff made with steel
+
+botania.page.steel0=&1Steel&0 is a new material used for creating tracks and other minecart related items/blocks.<br>To actually make steel, you need to first smelt iron nuggets into &1steel nuggets&0 in a furnace then use them to craft a full ingot.<br>To get a steel ingot by directly smelting an iron ingot you would need to have an &4extremely hot furnace&0...
+
+botania.page.steel1=Reinforced Crowbar
+
+botania.page.steel2=Disposal Track
+botania.page.steel3=Elevator Track
+botania.page.steel4=Priming Track
+
+botania.page.steel5=Item Loader, but it can face any direction
+botania.page.steel6=Item Unloader, but it can face any direction
+
+botania.page.steel7=Track Layer Cart
+botania.page.steel8=Track Relayer Cart
+botania.page.steel9=Track Remover Cart
+
+botania.page.steel10=Besides the utility tracks, steel can also be used to create new track variants.<br>&1The Reinforced tracks&0, for example, are explosion resistant and slightly faster than normal tracks.<br>&4The High Speed tracks&0 on the other hand are extremely fast but also dangerous, minecarts need to slow down before curves or they might explode.
+botania.page.steel11=Reinforced Track
+botania.page.steel12=Reinforced Booster Track
+botania.page.steel13=Reinforced Junction Track
+botania.page.steel14=High Speed Track
+botania.page.steel15=High Speed Transition Track
+botania.page.steel16=High Speed Booster Track
+
+
+# Steam Locomotive
+botania.entry.steam=Railcraft: Steam Locomotive
+botania.tagline.botania.entry.steam=Steam-powered steel minecart
+
+botania.page.steam0=&1The Steam Locomotive&0 is a steam-powered steel minecart, meaning it &oneeds water and fuel to run&r, it can be controlled through it's UI as well as through specialized tracks.<br>You can paint the steam locomotive by combining it with two dyes, the top dye being the &1primary color&0 and the bottom dye the &4secondary color&0.
+botania.page.steam1=Back in my day...
+botania.page.steam2=Painting the locomotive
+botania.page.steam3=Locomotive Track
+botania.page.steam4=Limiter Track
+botania.page.steam5=Whistle Track
+
+
+# Feed Station
+botania.entry.feedstation=Feed Station
+botania.tagline.botania.entry.feedstation=Feeds animals
+
+botania.page.feedstation0=The &1Feed Station&0 will automatically feed nearby mods with the food in it's inventory, simple as that.
+botania.page.feedstation1=Feed Station
+
+
+# World Anchors
+botania.entry.anchor=World Anchors
+botania.tagline.botania.entry.anchor=Chunk loaders
+
+botania.page.anchor0=There are three kinds of anchors each can load chunks in different ways when powered with &4Ender Pearls&0, however all of them will load chunks in a 3x3 area.<br>The &1World Anchor&0 loads the chunks normally, but is more expensive.<br>The &1Personal Anchor&0 will load chunks if the owner has visited them and is present on the world.
+botania.page.anchor1=The &1Passive Anchor&0 only loads chunks that were already visited by a person or loaded by a World Anchor.
+botania.page.anchor2=Ruler of everything
+botania.page.anchor3=Personal Anchor
+botania.page.anchor4=Passive Anchor
+botania.page.anchor5=World Anchor Cart
+
+
+# Builder
+botania.entry.builder=Builder
+botania.tagline.botania.entry.builder=Replicate builds automatically
+
+botania.page.builder0=The &1Builder&0 is a machine capable of replicating any structure, but first you'll need to get a template or blueprint of that structure, and to do that you'll need an &4Architect Table&0 and &1land marks.&0
+
+botania.page.builder1=First of all, to select the structure you want, you should place four (2D) or eight (3D) land marks to \"select\" your structure, these torch-like blocks can be placed on any side of a block, after that's done simply right click one of them and if they're aligned a red line should appear, connecting all the land marks. (Keep in mind that land marks have a limit of 63 blocks)
+
+botania.page.builderI=Like this
+
+botania.page.builder2=Now, all you need to do is to place an &1Architect Table&0 near an activated &1land mark&0 or the &4\"red laser\"&0 and put a template or blueprint inside it.<br>The difference between those two is that the blueprint remembers the materials present in the structure and where they were, while the template only registers it's shape.
+
+botania.page.builderI2=Placing the Architect Table
+
+botania.page.builder3=First we Build, then we Craft...
+botania.page.builder4=Architect Table
+botania.page.builder5=Land Mark
+botania.page.builder6=Template
+botania.page.builder7=Blueprint
+
+botania.page.builder8=But where to store these structures? For that you can make an &1Electronic Library&0, a device that allows you to digitally store the contents of templates and blueprints.
+
+botania.page.builder9=No energistics necessary.
+
+
+# Filler
+botania.entry.filler=Filler
+botania.tagline.botania.entry.filler=Fills an area with blocks
+
+botania.page.filler0=The &1Filler&0 is a simple machine, it's purpose is to &1fill&0 an area with blocks, this area is demarked using &1land marks&0 (see Builder entry) and can be filtered through into various different shapes. (e.g. pyramid, cylinder, stairs, etc)
+
+botania.page.filler1=Like, 40% of Naruto.
+
+
+# Quarry
+botania.entry.quarry=Quarry
+botania.tagline.botania.entry.quarry=The ultimate diggy
+
+botania.page.quarry0=The &1Quarry&0 is the upgrade to the &4Mining Well&0 and one of the most powerful Buildcraft machines. By supplying it with &4power&0 it will start digging out a 9x9 area until it reaches bedrock, inserting each mined block into adjascent pipes or inventories. Demarking an area with &1land marks&0 (see Builder entry) is optional, but will also allow you to mine a much bigger area, up to 64x64.
+
+botania.page.quarry1=C.A.R.L.A.
+
+
+# Auto Workbench
+botania.entry.autoCraft=Auto Workbench
+botania.tagline.botania.entry.autoCraft=Automatically crafts an item
+
+botania.page.autoCraft0=The &1Auto Workbench&0 is a machine that automatically crafts whatever recipe you put in it, it also has an internal inventory for the materials it will use to craft the item that results from the recipe.
+
+botania.page.autoCraft1=Who needs crates?
+
+
+# Chisel
+botania.entry.chisel=Chisel
+botania.tagline.botania.entry.chisel=New alternative blocks
+
+botania.page.chisel0=The &1Chisel&0 is a special tool, by using it on a block you can change it into one of it's many new variants (if it has any).<br>However, getting this item is not easy, requiring the Assembly Table and lots of energy.
+botania.page.chisel1=Iron Chisel (in Assembly Table - 250000 RF)
+botania.page.chisel2=Diamond Chisel (in Assembly Table - 1000000 RF)
+
+
+# Ships
+botania.entry.ships=Multiblock Ships
+botania.tagline.botania.entry.ships=Build for treasure?
+
+botania.page.ships0=To make a ship the first thing you'll need is it's helm, a block that when used when on a structure will turn it into a ship (given that all blocks in it are suspendend in the air or on water, without any touching the surface).<br>Moreover, adding Floaters to your ship will help it float more.
+botania.page.ships1=All aboard!
+botania.page.ships2=Take a seat.
+botania.page.ships3=Buoyancy.
+
+botania.page.ships4=At this point you can already create a working boat, but what if you want a super cool flying airship?<br>To do that, simply attach some air balloons to the ship, doesn't matter where, and it will be able to fly. That is, as long as a Steam Engine is also present and is stocked with fuel to burn.
+botania.page.ships5=Where are you going?
+
+botania.page.ships6=To the sky!
+
+
+# Carpentry
+botania.entry.carpenter=Carpentry
+botania.tagline.botania.entry.carpenter=Variants for all blocks
+
+botania.page.carpenter0=Have you ever needed a dirt slab or a mossy bricks stair, but couldn't craft it? The Carpenter's blocks are the solution to all your missing block variant issues! By using a block on a Carpenter's block, it will mimic that block's texture. So for example, using a grass block on Carpenter's stairs will result in grass block stairs.
+botania.page.carpenter1=Carpenter's Block
+botania.page.carpenter2=You can change the design of this block and it's variants using a Carpenter's Hammer. For example, using it on the block will change it to a vertical or horizontal slab and using it on a fence/barrier will change it's shape.<br>The Carpenter's Chisel on the other hand, when used cycles through overlay textures on the block.
+botania.page.carpenter3=Suboptimal for strife.
+botania.page.carpenter4=Not to be confused with Chisel.
+
+
+# ComputerCraft
+botania.entry.computers=Computers
+botania.tagline.botania.entry.computers=Lua-based PCs
+
+botania.page.computers0=By using &4chipsets&0 you can create working &1computers&0! The basic computer, made of stone and iron, can be used to run and create programs written in the lua programming language. (Type \"help\" to see available commands!)<br>The advanced computer on the other hand supports those features as well as color and mouse input.
+botania.page.computers1=Inception?
+botania.page.computers2=Bleeding edge.
+
+botania.page.computers3=Combining these computers with diamond chipsets and a chest will result in a &1Turtle&0.<br>These are basically computers that can physically interact with the world. By default they can only move around, but by modifying them they can be made to perform more actions.
+botania.page.computers4=Turtle
+botania.page.computers5=Insert Star Wars reference.
+
+botania.page.computers6=Moreover you can add peripherals to computers, things like: monitors, which will let you display things in the world, disk drives, that store floppy disks that can be then accessed by the computer through a folder (/disk), and printers, that use paper and dyes to print text.
+botania.page.computers7=Monitor
+botania.page.computers8=Advanced Monitor (color support)
+botania.page.computers9=Disk Drive
+botania.page.computers10=Floppy Disk
+botania.page.computers11=Printer
+
+
+# Iron Chests
+botania.entry.ironchests=Bigger Chests
+botania.tagline.botania.entry.ironchests=You guessed it!
+
+botania.page.ironchests0=By combining chests with certain materials you can &1increase their storage...&0 somehow.<br>This is very useful as you can get single block chests that are actually bigger than double chests.
+botania.page.ironchests1=NOT SCIENTIFICALLY POSSIBLE!
+botania.page.ironchests2=Gold Chest
+botania.page.ironchests3=Diamond Chest
+botania.page.ironchests4=Diamond Chest, but transparent.
+botania.page.ironchests5=Obsidian Chest, explosion resistant.
+
+
+# Cardboard Box
+botania.entry.box=Cardboard Box
+botania.tagline.botania.entry.box=Transport chests.
+
+botania.page.box0=The &1Cardboard Box&0 is a very special block as it can store and transport not just regular blocks, but also blocks with inventories, like chests.<br>To put a block inside the box simply try to place the box on the block while sneaking, then pick the box back up (right click), and finally place the block in your desired location.
+botania.page.box1=Useful during reactor meltdowns.
+
+
+# Satchel
+botania.entry.satchel=Leather Bags
+botania.tagline.botania.entry.satchel=Portable storage
+
+botania.page.satchel0=With so many items and blocks present in the world it's easy to end up having an inventory full of things, forcing you to leave things behind... However, by equipping &1pouches and satchels&0, you can directly increase your inventory space!
+botania.page.satchel1=Pouch
+# botania.page.satchel2=Pouch Upgrade
+botania.page.satchel3=Satchel (1 Extra Row)
+
+
+# Storage Drawers
+botania.entry.drawers=Storage Drawers
+botania.tagline.botania.entry.drawers=Single-item storage.
+
+botania.page.drawers0=Storage drawers are very useful for when you need to quickly stash a bunch of a single item, like the stacks of cobblestone you may get after a mining trip.<br>These drawers can be made to store more than one item, however that will split the available storage space between the items. So while a regular drawer can store 32 stacks of one item, a two item drawer will only store 16 stacks.
+botania.page.drawers1=Also, by using slabs while crafting them you can halve the amount of space they take. Unfortunately, these compact storage drawers will have their storage space halved as well.
+
+botania.page.drawers2=Basic Drawer.
+botania.page.drawers3=1x2 Drawer.
+botania.page.drawers4=2x2 Drawer.
+botania.page.drawers5=1x2 Compact Drawer.
+botania.page.drawers6=2x2 Compact Drawer.
+
+botania.page.drawers7=Through the power of redstone you can special create drawer mechanisms. These are:<br>The &1Compacting Drawer&0, that will automatically turn items into their compressed block forms; the &1Drawer Controller&0, that allows you to insert items into a group of drawers in a 12 block range, the &1Controller Slave&0, will increase said range.
+botania.page.drawers8=Compacting Drawer.
+botania.page.drawers9=Drawer Controller.
+botania.page.drawers10=Controller Slave.
+
+botania.page.drawers11=Storage drawers can be made from each of the six main wood types, using other will just result in an oak drawer.<br>You aren't limited to only these wood types however. By putting framed drawers in a Framing Table you can then apply any block's textures to these drawers. You're even able to use different textures for the frame and for the upper/lower drawers.
+botania.page.drawers12=Bibliotech.
+botania.page.drawers13=Framed Drawer.
+botania.page.drawers14=1x2 Framed Drawer.
+botania.page.drawers15=2x2 Framed Drawer.
+botania.page.drawers16=1x2 Compact Framed Drawer.
+botania.page.drawers17=2x2 Compact Framed Drawer.
+
+
+# Robots
+botania.entry.robots=Robots
+botania.tagline.botania.entry.robots=Beep boop
+
+botania.page.robots0=Technology's take on golems, these little guys are able to do simple tasks assigned to them using the power generated from an engine.
+botania.page.robots1=01001000 01001001 00101110
+botania.page.robots2=When created, these robots won't have any programming, meaning they won't do anything.<br>Unlike turtles, robots' programming options are limited and they need to be imprinted on a Redstone Board, to do this you will first need a Programming Table.
+botania.page.robots3=Programming Table
+botania.page.robots4=Redstone Board
+botania.page.robots5=After putting the &4Redstone Board&0 inside the &1Programming Table&0 and choosing a program, put it and your robot inside an &1Integration Table&0 (see Pipe Gates entry) and a functional robot will be created! Horray!<br>Now, to get the robot up and running, put it in a Docking Station on a Kinesis Pipe, you also might want to place a gate on that pipe to better control the robot's actions.
+botania.page.robots6=By default, the robot will interact with the surrounding area, to change the robot's working area you can either use a &1Map Location&0 on some &4land marks&0 (see Builder entry) or place an Empty Map inside the &4Zone Planner&0. After that, select the "Work in area" inside the robot's pipe's gate and place the map inside the empty slot.
+botania.page.robots7=Docking Station
+botania.page.robots8=Map Location
+botania.page.robots9=Zone Planner
+
+
+
+tc.research_name.DIMDOORS=Dimensional Doors
+tc.research_text.DIMDOORS=Beware the eyes watching from the dark
+tc.research_page.DIMDOORS0=These strange doors can be found all over the world. Going through them sends you to a pocket dimensions within pocket dimensions.<BR>Breaking it will create a dimensional rift in it's place, these can be removed using a Rift Remover, or you could place a Dimensional Door on it to activate it again, that is, if you could make one...
+
+tc.research_name.STABLEFABRIC=Pocket Dimensions
+tc.research_text.STABLEFABRIC=Create new worlds
+tc.research_page.STABLEFABRIC0=You have found a way of creating your own pocket dimesions by stabilizing world thread, a material produced by rifts when consuming blocks, that can also be found within the dimensional doors' dungeons.<BR>This stable fabric, as you call it, can be used to make dimensional doors for your own purposes.
+
+tc.research_name.ENCHTABLE=Enchantment Table
+tc.research_text.ENCHTABLE=Magical upgrades
+tc.research_page.ENCHTABLE0=By taking advantage of the magical properties of obsidian and the power of knowledge and experience, you are able to use this Enchantment Table to enchant your equipment with various new improvements.<BR>These range from simply making a tool better or stronger to giving it a new unique property like being able to harvest fragile blocks without damaging them.
+
+
+tc.research_name.TWILIGHTFOREST=The Twilight Forest
+tc.research_text.TWILIGHTFOREST=Land of fairy tale
+tc.research_page.TWILIGHTFOREST0=A land filled with fantastical creatures each stronger than the last.<BR><BR><BR>To get to the Twilight Forest make a 2x2, 1 block high hole and fill it with water, then place eight flowers around it and drop a Twilight Diamond in the water. If done correctly, lightning should strike and the portal should open.
+tc.research_page.TWILIGHTFOREST1=<IMG>bog:textures/lexica/portal.png:0:0:255:255:1.0</IMG>
+
+tc.research_name.TERRABLADE=Terra Blade
+tc.research_text.TERRABLADE=The Earth's Edge [Terrasteel Required]
+tc.research_page.TERRABLADE=The Terra Blade, crafted from Terrasteel Ingots, a powerful elven material, is a sword infused with natural strength.<BR>Not only does it par with a Diamond Sword in terms of strength and it uses Mana from the inventory like Manasteel Tools, but when swung, there's a chance for it to create a beam that will deal as much damage as a melee hit.
+
+tc.research_name.TERRAAXE=Terra Truncator
+tc.research_text.TERRAAXE=Truncator of trees [Terrasteel Required]
+tc.research_page.TERRAAXE=The Terra Truncator is a greataxe of premium quality achievable only with Terrasteel. When hitting a tree it'll take the whole thing down with speed, bringing all the logs and leaves along with it. This comes at a hefty cost of Mana.<BR><BR>This effect doesn't happen while sneaking.
+
+tc.research_name.VILLAGER=Human Transmutation
+tc.research_text.VILLAGER=Repopulate the world!
+tc.research_page.VILLAGER=Curing Zombie Villagers is a rather cumbersome process, not to mention having to move the villager to your town. Wouldn't it be a lot easier to just spawn a villager wherever you want, whenever you want?<BR><BR>By infusing a chicken egg with a cured human brain, flesh, and bones, you managed to, somehow, create a magical egg that hatches into a Villager.

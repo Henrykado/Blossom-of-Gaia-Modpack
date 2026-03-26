@@ -1,0 +1,9 @@
+Vanilla Tweaks Resource Pack
+Version: 1.11
+Packs:
+	UnobtrusiveRain
+	StickyPistonSides
+	LowerSnow
+	LowerMycelium
+	LowerPodzol
+	LowerGrass

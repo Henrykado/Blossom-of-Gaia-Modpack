@@ -1,0 +1,15 @@
+{
+  "id": "at:outerlands",
+  "condition": {
+    "type": "dimension.join",
+    "id": -42
+  },
+  "page": "Thaumcraft",
+  "x": -5,
+  "y": -3,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:ItemEldritchObject"
+  },
+  "isSpecial": true
+}

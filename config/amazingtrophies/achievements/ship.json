@@ -1,0 +1,14 @@
+{
+  "id": "at:ship",
+  "condition": {
+    "type": "item.craft",
+    "item": "ArchimedesShipsPlus:marker"
+  },
+  "page": null,
+  "x": 0,
+  "y": 2,
+  "parent": "achievement.acquireIron",
+  "icon": {
+    "registryName": "ArchimedesShipsPlus:seat"
+  }
+}

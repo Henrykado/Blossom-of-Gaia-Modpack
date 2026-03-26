@@ -1,0 +1,15 @@
+{
+  "id": "at:golem",
+  "condition": {
+    "type": "item.craft",
+    "item": "Thaumcraft:ItemGolemCore",
+	"meta": 100
+  },
+  "page": "Thaumcraft",
+  "x": 5,
+  "y": 2,
+  "parent": "at:book",
+  "icon": {
+    "registryName": "Thaumcraft:ItemGolemPlacer"
+  }
+}

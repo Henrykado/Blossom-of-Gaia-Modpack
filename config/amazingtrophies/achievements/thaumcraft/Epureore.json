@@ -1,0 +1,16 @@
+{
+  "id": "at:pureore",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemNugget",
+	"meta": 16
+  },
+  "page": "Thaumcraft",
+  "x": 8,
+  "y": -3,
+  "parent": "at:thaumium",
+  "icon": {
+    "registryName": "Thaumcraft:ItemNugget",
+	"meta": 16
+  }
+}

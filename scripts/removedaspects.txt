@@ -1,0 +1,125 @@
+Aspects.set(<TwilightForest:tile.TFPortal>, "aqua 4, iter 4, arbor 2");
+
+Aspects.set(<TwilightForest:tile.TFMazestone>, "terra 2, vinculum 1, tutamen 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:1>, "terra 2, viniculum 1, tutamen 1, ordo 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:2>, "terra 2, viniculum 1, tutamen 1, praecantatio 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:3>, "terra 2, vinculum 1, tutamen 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:4>, "terra 2, vinculum 1, tutamen 1, perditio 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:5>, "terra 2, vinculum 1, tutamen 1, herba 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:6>, "terra 2, vinculum 1, tutamen 1, praecantatio 1");
+
+Aspects.set(<TwilightForest:tile.TFMazestone:7>, "terra 2, vinculum 1, tutamen 1");
+
+Aspects.set(<TwilightForest:tile.TFTowerStone>, "arbor 2, machina 2");
+
+Aspects.set(<TwilightForest:tile.TFTowerStone:1>, "arbor 2, machina 2");
+
+Aspects.set(<TwilightForest:tile.TFTowerStone:2>, "arbor 2, machina 2, perditio 1");
+
+Aspects.set(<TwilightForest:tile.TFTowerStone:3>, "arbor 2, machina 2, herba 1");
+
+Aspects.set(<TwilightForest:tile.TFTowerStone:4>, "arbor 2, machina 2, perditio 1");
+
+Aspects.set(<TwilightForest:tile.TFTowerDevice>, "arbor 4, machina 4, praecantatio 4");
+
+Aspects.set(<TwilightForest:tile.TFDeadrock>, "terra 2, mortuus 2, aer 1");
+
+Aspects.set(<TwilightForest:tile.TFDeadrock:1>, "terra 2, mortuus 2, perditio 1");
+
+Aspects.set(<TwilightForest:tile.TFDeadrock:2>, "terra 2, mortuus 2");
+
+Aspects.set(<TwilightForest:tile.TFUnderBrick:1>, "terra 2, tenebrae 2, perditio 1");
+
+Aspects.set(<TwilightForest:tile.TFUnderBrick:2>, "terra 2, tenebrae 2, herba 1");
+
+Aspects.set(<TwilightForest:tile.Slider>, "motus 4, vinculum 2, arbor 2");
+
+Aspects.set(<TwilightForest:tile.Slider:1>, "motus 4, vinculum 2, arbor 2");
+
+Aspects.set(<TwilightForest:tile.Slider:2>, "motus 6, vinculum 3, arbor 2");
+
+Aspects.set(<TwilightForest:tile.Slider:3>, "motus 6, vinculum 3, arbor 2");
+
+Aspects.set(<TwilightForest:tile.CastleBrick>, "terra 2, ordo 1");
+
+Aspects.set(<TwilightForest:tile.CastleBrick:1>, "terra 2, ordo 1, aer 1");
+
+Aspects.set(<TwilightForest:tile.CastleBrick:2>, "terra 2, ordo 1, perditio 1");
+
+Aspects.set(<TwilightForest:tile.CastleBrick:3>, "terra 2, ordo 1, tenebrae 1");
+
+Aspects.set(<TwilightForest:tile.CastleMagic>, "terra 2, ordo 1, praecantatio 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.CastleMagic:1>, "terra 2, ordo 1, praecantatio 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.CastleMagic:2>, "terra 2, ordo 1, praecantatio 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.CastleMagic:3>, "terra 2, ordo 1, praecantatio 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.ForceField>, "alienis 2, tutamen 5, machina 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.ForceField:1>, "alienis 2, tutamen 5, machina 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.ForceField:2>, "alienis 2, tutamen 5, machina 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.ForceField:3>, "alienis 2, tutamen 5, machina 2, sensus 1");
+
+Aspects.set(<TwilightForest:tile.ForceField:4>, "alienis 2, tutamen 5, machina 2, sensus 1");
+
+Aspects.set(<TwilightForest:item.trophy>, "victus 6, bestia 6, spiritus 6, ignis 3");
+
+Aspects.set(<TwilightForest:tile.TFTrophy>, "victus 6, bestia 6, spiritus 6, ignis 3");
+
+
+Aspects.set(<TwilightForest:item.trophy:1>, "victus 6, bestia 6, spiritus 6, motus 3");
+
+Aspects.set(<TwilightForest:tile.TFTrophy:1>, "victus 6, bestia 6, spiritus 6, motus 3");
+
+Aspects.set(<TwilightForest:item.trophy:2>, "victus 6, bestia 6, spiritus 6, exanimis 3");
+
+Aspects.set(<TwilightForest:tile.TFTrophy:2>, "victus 6, bestia 6, spiritus 6, exanimis 3");
+
+Aspects.set(<TwilightForest:item.trophy:3>, "victus 6, bestia 6, spiritus 9");
+
+Aspects.set(<TwilightForest:tile.TFTrophy:3>, "victus 6, bestia 6, spiritus 9");
+
+Aspects.set(<TwilightForest:item.trophy:4>, "victus 6, bestia 6, spiritus 6, gelum 3");
+
+Aspects.set(<TwilightForest:tile.TFTrophy:4>, "victus 6, bestia 6, spiritus 6, gelum 3");
+
+Aspects.set(<TwilightForest:item.towerKey>, "praecantatio 4, machina 4");
+
+
+
+Aspects.set(<aether_legacy:carved_stone>, "terra 2");
+Aspects.set(<aether_legacy:locked_carved_stone>, "terra 2, ordo 1, praecantatio 3, tutamen 3");  
+Aspects.set(<aether_legacy:carved_trap>, "terra 2, bestia 2, vinculum 1");
+Aspects.set(<aether_legacy:carved_wall>, "terra 2");
+Aspects.set(<aether_legacy:carved_stairs>, "terra 2");
+Aspects.set(<aether_legacy:carved_double_slab>, "terra 2");  
+
+Aspects.set(<aether_legacy:angelic_stone>, "terra 2, ordo 1"); 
+Aspects.set(<aether_legacy:locked_angelic_stone>, "terra 2, ordo 1, praecantatio 3, tutamen 3"); 
+Aspects.set(<aether_legacy:sentry_stone>, "terra 2, ordo 1, lux 1, praecantatio 3, tutamen 3"); 
+Aspects.set(<aether_legacy:locked_sentry_stone>, "terra 2, ordo 1, lux 1");
+Aspects.set(<aether_legacy:light_angelic_stone>, "terra 2, ordo 1, lux 1");
+Aspects.set(<aether_legacy:locked_light_angelic_stone>, "terra 2, ordo 1, lux 1, praecantatio 3, tutamen 3"); 
+Aspects.set(<aether_legacy:angelic_trap>, "terra 2, ordo 1, humanus 3, vinculum 1");
+Aspects.set(<aether_legacy:angelic_wall>, "terra 2, ordo 1"); 
+Aspects.set(<aether_legacy:angelic_stairs>, "terra 2, ordo 1");
+Aspects.set(<aether_legacy:angelic_double_slab>, "terra 2, ordo 1");
+
+Aspects.set(<aether_legacy:hellfire_stone>, "terra 2, ignis 1"); 
+Aspects.set(<aether_legacy:locked_hellfire_stone>, "terra 2, ignis 1, praecantatio 3, tutamen 3"); 
+Aspects.set(<aether_legacy:light_hellfire_stone>, "terra 2, ignis 1, lux 1"); 
+Aspects.set(<aether_legacy:locked_light_hellfire_stone>, "terra 2, ignis 1, lux 1, praecantatio 3, tutamen 3"); 
+Aspects.set(<aether_legacy:hellfire_trap>, "terra 2, ignis 4, vinculum 1");
+Aspects.set(<aether_legacy:hellfire_wall>, "terra 2, ignis 1");
+Aspects.set(<aether_legacy:hellfire_stairs>, "terra 2, ignis 1");
+Aspects.set(<aether_legacy:hellfire_double_slab>, "terra 2, ignis 1");  

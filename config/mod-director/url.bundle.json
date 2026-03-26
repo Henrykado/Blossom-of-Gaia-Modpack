@@ -1,0 +1,67 @@
+{
+	"url": [
+		{
+			"url": "https://www.github.com/GTNewHorizons/AlchemyGrate/releases/download/1.3.1-GTNH/alchgrate-1.3.1-GTNH.jar",
+			"installationPolicy": {
+				"name": "Alchemical Grate",
+				"description": "Optional -- Thumcraft addon, adds an item grate for the Advanced Alchemical Furnace"
+			}
+		},
+		{
+			"url": "https://www.github.com/GTNewHorizons/BuildCraftOilTweak/releases/download/1.1.3/BuildCraftOilTweak-1.1.3.jar",
+			"installationPolicy": {
+				"name": "Buildcraft Oil Tweak",
+				"description": "Optional -- Makes Buildcraft's oil more deadly"
+			}
+		},
+		{
+			"url": "https://www.github.com/GTNewHorizons/Chisel/releases/download/2.17.5-GTNH/chisel-2.17.5-GTNH.jar",
+			"installationPolicy": {
+				"name": "Chisel (GTNH Fork)",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://www.github.com/GTNewHorizons/Railcraft/releases/download/9.17.24/Railcraft-9.17.24.jar",
+			"installationPolicy": {
+				"name": "Railcraft (GTNH Fork)",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://www.github.com/Henrykado/Botania/releases/download/1.13.7-BoG/Botania-1.13.7-BoG.jar",
+			"installationPolicy": {
+				"name": "Botania (BoG Fork)",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://github.com/Henrykado/twilightforest/releases/download/2.7.23.1/TwilightForest-2.7.23.1.jar",
+			"installationPolicy": {
+				"name": "The Twilight Forest (BoG Fork)",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://www.github.com/Henrykado/ForgeMultipartLite/releases/download/1.1/ForgeMultipartLite-1.6.2.1.jar",
+			"installationPolicy": {
+				"name": "Forge Multipart Lite",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://www.github.com/Henrykado/BuildCraft/releases/download/7.1.58.1/buildcraft-7.1.58.1.jar",
+			"installationPolicy": {
+				"name": "Buildcraft (BoG Fork)",
+				"description": "Required"
+			}
+		},
+		{
+			"url": "https://www.github.com/Henrykado/VNOceanMonument/releases/download/1.0/villagenames-1.0.jar",
+			"installationPolicy": {
+				"name": "Ocean Monument Backport (Village Names Fork)",
+				"description": "Required"
+			}
+		}
+	]
+}

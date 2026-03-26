@@ -1,0 +1,14 @@
+{
+  "id": "at:loco",
+  "condition": {
+    "type": "item.craft",
+    "item": "Railcraft:cart.loco.steam.solid"
+  },
+  "page": null,
+  "x": 0,
+  "y": 3,
+  "parent": "achievement.acquireIron",
+  "icon": {
+    "registryName": "Railcraft:cart.loco.steam.solid"
+  }
+}

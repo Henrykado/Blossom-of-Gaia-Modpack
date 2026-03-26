@@ -1,0 +1,14 @@
+{
+  "id": "at:crucible",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockMetalDevice"
+  },
+  "page": "Thaumcraft",
+  "x": 5,
+  "y": -2,
+  "parent": "at:book",
+  "icon": {
+    "registryName": "Thaumcraft:blockMetalDevice"
+  }
+}

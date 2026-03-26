@@ -1,0 +1,14 @@
+{
+  "id": "at:book",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemThaumonomicon"
+  },
+  "page": "Thaumcraft",
+  "x": 3,
+  "y": 0,
+  "parent": "at:wand",
+  "icon": {
+    "registryName": "Thaumcraft:ItemThaumonomicon"
+  }
+}

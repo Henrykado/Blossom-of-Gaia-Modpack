@@ -1,0 +1,17 @@
+# Gears
+mods.botania.Lexicon.addEntry("botania.entry.gears","botania.category.buildcraft", <BuildCraft|Core:woodenGearItem>);
+game.setLocalization("en_US", "botania.entry.gears", "Gears");
+
+mods.botania.Lexicon.addTextPage("botania.page.gears","botania.entry.gears",0);
+game.setLocalization("en_US", "botania.page.gears", "&oGears&r are simple crafting materials used to make most mechanical machinery. Each gear is an upgrade of the last, culminating in the Diamond Gear, which is used to make advanced machinery.");
+
+mods.botania.Lexicon.addCraftingPage("botania.page.gears1","botania.entry.gears",1, [<BuildCraft|Core:woodenGearItem>], [[[null, <ore:stickWood>, null], [<ore:stickWood>, null, <ore:stickWood>], [null, <ore:stickWood>, null]]]);
+game.setLocalization("en_US", "botania.page.gears1", "Rough around the edges");
+mods.botania.Lexicon.addCraftingPage("botania.page.gears2","botania.entry.gears",2, [<BuildCraft|Core:stoneGearItem>], [[[null, <ore:cobblestone>, null], [<ore:cobblestone>, <ore:gearWood>, <ore:cobblestone>], [null, <ore:cobblestone>, null]]]);
+game.setLocalization("en_US", "botania.page.gears2", "Hard as a rock");
+mods.botania.Lexicon.addCraftingPage("botania.page.gears3","botania.entry.gears",3, [<BuildCraft|Core:ironGearItem>], [[[null, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:gearStone>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]]);
+game.setLocalization("en_US", "botania.page.gears3", "Stainless, for now");
+mods.botania.Lexicon.addCraftingPage("botania.page.gears4","botania.entry.gears",4, [<BuildCraft|Core:goldGearItem>], [[[null, <ore:ingotGold>, null], [<ore:ingotGold>, <ore:gearIron>, <ore:ingotGold>], [null, <ore:ingotGold>, null]]]);
+game.setLocalization("en_US", "botania.page.gears4", "Not honey");
+mods.botania.Lexicon.addCraftingPage("botania.page.gears5","botania.entry.gears",5, [<BuildCraft|Core:diamondGearItem>], [[[null, <ore:gemDiamond>, null], [<ore:gemDiamond>, <ore:gearGold>, <ore:gemDiamond>], [null, <ore:gemDiamond>, null]]]);
+game.setLocalization("en_US", "botania.page.gears5", "Shiny!");

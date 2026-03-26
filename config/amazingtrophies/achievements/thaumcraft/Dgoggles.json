@@ -1,0 +1,14 @@
+{
+  "id": "at:goggles",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemGoggles"
+  },
+  "page": "Thaumcraft",
+  "x": 7,
+  "y": 0,
+  "parent": "at:thaumometer",
+  "icon": {
+    "registryName": "Thaumcraft:ItemGoggles"
+  }
+}

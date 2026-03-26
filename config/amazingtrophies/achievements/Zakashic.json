@@ -1,0 +1,14 @@
+{
+  "id": "at:akashic",
+  "condition": {
+    "type": "item.craft",
+    "item": "akashictome:tome"
+  },
+  "page": null,
+  "x": 5,
+  "y": -6,
+  "parent": "at:lexiconUse",
+  "icon": {
+    "registryName": "akashictome:tome"
+  }
+}

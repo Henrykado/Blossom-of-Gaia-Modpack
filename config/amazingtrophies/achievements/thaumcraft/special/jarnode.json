@@ -1,0 +1,15 @@
+{
+  "id": "at:jarnode",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:BlockJarNodeItem"
+  },
+  "page": "Thaumcraft",
+  "x": -3,
+  "y": -3,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:BlockJarNodeItem"
+  },
+  "isSpecial": true
+}

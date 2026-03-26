@@ -1,0 +1,14 @@
+{
+  "id": "at:lexiconUse",
+  "condition": {
+    "type": "item.use.start",
+    "item": "Botania:lexicon"
+  },
+  "page": null,
+  "x": 5,
+  "y": -4,
+  "parent": "achievement.killCow",
+  "icon": {
+    "registryName": "Botania:lexicon"
+  }
+}

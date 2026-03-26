@@ -1,0 +1,14 @@
+{
+  "id": "at:dummy",
+  "condition": {
+    "type": "item.pickup",
+    "item": "testdummy:Dummy"
+  },
+  "page": null,
+  "x": 2,
+  "y": -6,
+  "parent": "achievement.buildHoe",
+  "icon": {
+    "registryName": "testdummy:Dummy"
+  }
+}

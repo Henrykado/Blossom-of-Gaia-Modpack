@@ -1,0 +1,16 @@
+{
+  "id": "at:alembic",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockMetalDevice",
+	"meta": 1
+  },
+  "page": "Thaumcraft",
+  "x": 4,
+  "y": -4,
+  "parent": "at:crucible",
+  "icon": {
+    "registryName": "Thaumcraft:blockMetalDevice",
+	"meta": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "at:mirror",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockMirror"
+  },
+  "page": "Thaumcraft",
+  "x": 11,
+  "y": 4,
+  "parent": "at:infusion",
+  "icon": {
+    "registryName": "Thaumcraft:blockMirror"
+  }
+}

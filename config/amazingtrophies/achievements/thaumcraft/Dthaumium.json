@@ -1,0 +1,16 @@
+{
+  "id": "at:thaumium",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemResource",
+	"meta": 2
+  },
+  "page": "Thaumcraft",
+  "x": 7,
+  "y": -2,
+  "parent": "at:crucible",
+  "icon": {
+    "registryName": "Thaumcraft:ItemResource",
+	"meta": 2
+  }
+}

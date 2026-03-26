@@ -1,0 +1,14 @@
+{
+  "id": "at:trunk",
+  "condition": {
+    "type": "item.use.start",
+    "item": "Thaumcraft:TrunkSpawner"
+  },
+  "page": "Thaumcraft",
+  "x": 7,
+  "y": 2,
+  "parent": "at:book",
+  "icon": {
+    "registryName": "Thaumcraft:TrunkSpawner"
+  }
+}

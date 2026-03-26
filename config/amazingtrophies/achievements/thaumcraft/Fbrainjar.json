@@ -1,0 +1,16 @@
+{
+  "id": "at:brainjar",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockJar",
+	"meta": 1
+  },
+  "page": "Thaumcraft",
+  "x": 13,
+  "y": 0,
+  "parent": "at:infusion",
+  "icon": {
+    "registryName": "Thaumcraft:blockJar",
+	"meta": 1
+  }
+}

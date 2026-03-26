@@ -1,0 +1,15 @@
+{
+  "id": "at:zephyr",
+  "condition": {
+    "type": "item.use.start",
+    "item": "Thaumcraft:ItemSwordElemental"
+  },
+  "page": "Thaumcraft",
+  "x": -3,
+  "y": -1,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:ItemSwordElemental"
+  },
+  "isSpecial": true
+}

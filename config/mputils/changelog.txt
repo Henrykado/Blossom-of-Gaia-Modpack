@@ -1,0 +1,11 @@
+- Removed the Raw Mouse Input mod as it broke Linux compatibility
+- Removed the Loading Progress Bar mod as it doesn't even work
+- Removed the Ears mod for causing log spam and being buggy
+- Remove FluxLoading since the project has been abandoned
+- Removed the Tarantula mob as there are a lot of spider mobs in the pack already
+- Updated Angelica and other mods
+- Added a new biome: the Autumnal Forest
+- Halved the amount of stamina lost when taking damage
+- Crops in Garden of Glass worlds now grow as fast as in vanilla
+- New Twilight Diamond item used for making the Twilight Forest portal
+- Rune of Earth in the Skyroot Bucket recipe replaced with blaze powder, making Botania optional for reaching the Aether

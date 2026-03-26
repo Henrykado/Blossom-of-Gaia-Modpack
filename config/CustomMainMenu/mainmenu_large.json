@@ -1,0 +1,158 @@
+{
+    "images":
+    {
+		"backdrop":
+        {
+            "image" : "bog:textures/backdrop.png",
+            "posX" : -60,
+            "posY" : 0,
+            "width" : 120,
+            "height" : 512,
+            "alignment" : "top_center"
+        },
+        "title":
+        {
+            "image" : "bog:textures/minecraft.png",
+            "posX" : -137,
+            "posY" : 24,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"texture" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -60,
+            "posY" : 52,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -60,
+            "posY" : 74,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods (#modsactive#)",
+			"texture" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -60,
+            "posY" : 118,
+            "width" : 120,
+            "height" : 20,
+			"imageHeight": 0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+			"texture" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -60,
+            "posY" : 96,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+			"texture" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -60,
+            "posY" : 140,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 33,
+            "posY" : 100,
+            "width" : 12,
+            "height" : 12,
+			"texture" : "bog:textures/bubble.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "forge":
+        {
+            "text" : "Blossom of Gaia Modpack \nOptimized by Angelica & CoreTweaks \nForge Mod Loader #fmlversion#",
+            "posX" : 2,
+            "posY" : -28,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 95,
+            "posY" : 85,
+            "color" : -120,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : ["bog:textures/snow/panorama%c.png", "bog:textures/panorama/panorama0%c.png", "bog:textures/panorama/panorama1%c.png", "bog:textures/panorama/panorama2%c.png", "bog:textures/panorama/panorama3%c.png", "bog:textures/panorama/panorama4%c.png"],
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

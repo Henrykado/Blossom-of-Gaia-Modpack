@@ -1,0 +1,17 @@
+{
+  "id": "at:arcaneear",
+  "condition": {
+    "type": "item.craft",
+    "item": "Thaumcraft:blockWoodenDevice",
+	"meta": 1
+  },
+  "page": "Thaumcraft",
+  "x": -5,
+  "y": -1,
+  "parent": null,
+  "icon": {
+    "registryName": "Thaumcraft:blockWoodenDevice",
+	"meta": 1
+  },
+  "isSpecial": true
+}
