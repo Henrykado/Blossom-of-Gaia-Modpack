@@ -36,7 +36,7 @@
 			}
 		},
 		{
-			"url": "https://github.com/Henrykado/twilightforest/releases/download/2.7.23.1/TwilightForest-2.7.23.1.jar",
+			"url": "https://github.com/Henrykado/twilightforest/releases/download/2.7.23.2/TwilightForest-2.7.23.2.jar",
 			"installationPolicy": {
 				"name": "The Twilight Forest (BoG Fork)",
 				"description": "Required"
@@ -50,7 +50,7 @@
 			}
 		},
 		{
-			"url": "https://www.github.com/Henrykado/BuildCraft/releases/download/7.1.58.1/buildcraft-7.1.58.1.jar",
+			"url": "https://www.github.com/Henrykado/BuildCraft/releases/download/7.1.58.2/buildcraft-7.1.58.2.jar",
 			"installationPolicy": {
 				"name": "Buildcraft (BoG Fork)",
 				"description": "Required"
