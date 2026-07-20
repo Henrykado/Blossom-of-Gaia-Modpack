@@ -3,19 +3,19 @@ mouseSensitivity:0.5
 fov:0.25
 gamma:0.5
 saturation:0.0
-renderDistance:12
+renderDistance:6
 guiScale:2
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-maxFps:260
+maxFps:60
 fboEnable:true
-difficulty:1
+difficulty:0
 fancyGraphics:true
 ao:1
 clouds:true
-resourcePacks:["Sonomagy TC4 v1.6.zip","VanillaTweaks","Partial Modernity","Matmos Default"]
+resourcePacks:["Partial Modernity","Matmos Default","Sonomagy TC4 v1.7.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -25,7 +25,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:false
+enableVsync:true
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
@@ -85,6 +85,48 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_nei.options.keys.gui.enchant:45
+key_nei.options.keys.gui.potion:25
+key_nei.options.keys.gui.prev:201
+key_nei.options.keys.gui.next:209
+key_nei.options.keys.gui.hide:24
+key_nei.options.keys.gui.search:33
+key_nei.options.keys.gui.overlay:31
+key_nei.options.keys.gui.craft_items:46
+key_nei.options.keys.gui.getprevioussearch:200
+key_nei.options.keys.gui.getnextsearch:208
+key_nei.options.keys.gui.next_tooltip:44
+key_nei.options.keys.recipe.recipe:19
+key_nei.options.keys.recipe.usage:22
+key_nei.options.keys.recipe.back:14
+key_nei.options.keys.recipe.prev_machine:200
+key_nei.options.keys.recipe.next_machine:208
+key_nei.options.keys.recipe.prev_recipe:203
+key_nei.options.keys.recipe.next_recipe:205
+key_nei.options.keys.bookmark.add:30
+key_nei.options.keys.bookmark.favorite:33
+key_nei.options.keys.bookmark.favorite_item:33
+key_nei.options.keys.bookmark.remove_recipe:30
+key_nei.options.keys.bookmark.pull_items:47
+key_nei.options.keys.bookmark.hide:48
+key_nei.options.keys.itemzoom.toggle:44
+key_nei.options.keys.itemzoom.hold:0
+key_nei.options.keys.itemzoom.zoom_in:0
+key_nei.options.keys.itemzoom.zoom_out:0
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.highlight_tips:82
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
+key_nei.options.keys.copy.name:46
+key_nei.options.keys.copy.oredict:32
+key_nei.options.keys.copy.identifier:45
+key_nei.options.keys.copy.chat_link_item:38
 key_key.archimedes.up:19
 key_key.archimedes.down:33
 key_key.archimedes.brake:57
@@ -99,13 +141,12 @@ key_openblocks.keybind.vario_vol_down:0
 key_key.lasers:0
 key_key.aether.accessory_menu:0
 key_Baubles Inventory:48
-key_Change Wand Focus:33
-key_Activate Hover Harness:35
-key_Misc Wand Toggle:34
+key_tc.key.change_wand_focus:33
+key_tc.key.hover_harness:0
+key_tc.key.wand_toggle:0
 key_Reload Shaders:0
 key_Toggle Shaders:0
 key_Shaderpack Selection Screen:0
-key_Print GLSM Debug:0
 key_Zoom:46
 key_botaniamisc.toggleLoki:0
 key_botaniamisc.ringOfLokiClear:0
@@ -147,12 +188,14 @@ key_gui.xaero_quick_confirm:54
 key_key.fastBlockPlacing.desc:0
 key_key.betterfoliage.gui:67
 key_key.carbon_config.key:82
+key_key.carbon_config.dep:79
 key_key.control:0
 key_railcraft.keybind.loco.faster:0
 key_railcraft.keybind.loco.slower:0
 key_railcraft.keybind.loco.mode:34
 key_railcraft.keybind.loco.whistle:33
 key_key.craftpresence.config_keycode.name:88
+key_nei.options.keys.gui.botania_corporea_request:46
 key_railcraft.keybind.aura.anchor:67
 key_railcraft.keybind.aura.tuning:25
 key_railcraft.keybind.aura.surveying:24

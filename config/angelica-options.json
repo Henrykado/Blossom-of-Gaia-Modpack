@@ -9,13 +9,15 @@
     "multi_draw_mode": "DIRECT",
     "use_particle_culling": true,
     "allow_direct_memory_access": true,
-    "ignore_driver_blacklist": false
+    "ignore_driver_blacklist": false,
+    "streaming_upload_strategy": "MAP_BUFFER_RANGE",
+    "enable_deferred_batching": true
   },
   "performance": {
-    "chunk_builder_threads": 1,
+    "chunk_builder_threads": 0,
     "always_defer_chunk_updates": true,
     "use_no_error_g_l_context": true,
-    "async_occlusion_mode": "ONLY_SHADOW",
+    "async_occlusion_mode": "EVERYTHING",
     "use_occlusion_culling": true,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
@@ -24,6 +26,6 @@
     "use_compact_vertex_format": true,
     "translucency_sorting": true,
     "use_render_pass_optimization": true,
-    "cpu_render_ahead_limit": 3
+    "cpu_render_ahead_limit": 0
   }
 }

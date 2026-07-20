@@ -108,11 +108,12 @@ botania.page.pipesK=Converting an item pipe into a kinesis pipe.
 botania.entry.apipes=Even More Pipes!
 botania.tagline.botania.entry.apipes=Additional pipes
 
-botania.page.apipes0=Regular pipes are fine and all, but sometimes you need more control over each item and where they go, that's where these additional pipes come in.<br><br>The &4Addition Transport Pipe&0 will add an item to an inventory only if there is some of that item in said inventory. Useful for simple sorting.
-botania.page.apipes1=The &4Obsidian Fluid Pipe&0 will extract the liquid from full buckets and suck in nearby items if powered by a redstone engine.
+botania.page.apipes0=Regular pipes are fine and all, but sometimes you need more control over each item and where they go, that's where these "additional" pipes come in.
+botania.page.apipes1=The &4Addition Transport Pipe&0 will add an item to an inventory only if there is some of that item in said inventory. Useful for simple sorting.<br>The &4Obsidian Fluid Pipe&0 will extract the liquid from full buckets and suck in nearby items if powered by a redstone engine.
 botania.page.apipes2=Addition Transport Pipe
 botania.page.apipes3=Obsidian Fluid Pipe
 
+botania.page.apipesX=The other pipes added are simpler to explain:
 botania.page.apipes4=Outputs a specific ratio of items to each side.
 botania.page.apipes5=Clay pipe + Distribution pipe hybrid
 botania.page.apipes6=Gravity-fed extraction pipe.
@@ -370,11 +371,11 @@ botania.tagline.botania.entry.builder=Replicate builds automatically
 
 botania.page.builder0=The &1Builder&0 is a machine capable of replicating any structure, but first you'll need to get a template or blueprint of that structure, and to do that you'll need an &4Architect Table&0 and &1land marks.&0
 
-botania.page.builder1=First of all, to select the structure you want, you should place four (2D) or eight (3D) land marks to \"select\" your structure, these torch-like blocks can be placed on any side of a block, after that's done simply right click one of them and if they're aligned a red line should appear, connecting all the land marks. (Keep in mind that land marks have a limit of 63 blocks)
+botania.page.builder1=First of all, to select the structure you want, you should place four (2D) or eight (3D) land marks to "select" your structure, these torch-like blocks can be placed on any side of a block, after that's done simply right click one of them and if they're aligned a red line should appear, connecting all the land marks. (Keep in mind that land marks have a limit of 63 blocks)
 
 botania.page.builderI=Like this
 
-botania.page.builder2=Now, all you need to do is to place an &1Architect Table&0 near an activated &1land mark&0 or the &4\"red laser\"&0 and put a template or blueprint inside it.<br>The difference between those two is that the blueprint remembers the materials present in the structure and where they were, while the template only registers it's shape.
+botania.page.builder2=Now, all you need to do is to place an &1Architect Table&0 near an activated &1land mark&0 or the &4"red laser"&0 and put a template or blueprint inside it.<br>The difference between those two is that the blueprint remembers the materials present in the structure and where they were, while the template only registers it's shape.
 
 botania.page.builderI2=Placing the Architect Table
 
@@ -455,7 +456,7 @@ botania.page.carpenter4=Not to be confused with Chisel.
 botania.entry.computers=Computers
 botania.tagline.botania.entry.computers=Lua-based PCs
 
-botania.page.computers0=By using &4chipsets&0 you can create working &1computers&0! The basic computer, made of stone and iron, can be used to run and create programs written in the lua programming language. (Type \"help\" to see available commands!)<br>The advanced computer on the other hand supports those features as well as color and mouse input.
+botania.page.computers0=By using &4chipsets&0 you can create working &1computers&0! The basic computer, made of stone and iron, can be used to run and create programs written in the lua programming language. (Type "help" to see available commands!)<br>The advanced computer on the other hand supports those features as well as color and mouse input.
 botania.page.computers1=Inception?
 botania.page.computers2=Bleeding edge.
 
@@ -542,6 +543,28 @@ botania.page.robots6=By default, the robot will interact with the surrounding ar
 botania.page.robots7=Docking Station
 botania.page.robots8=Map Location
 botania.page.robots9=Zone Planner
+
+
+# Funky Locomotion
+botania.entry.frames=Funky locomotion
+botania.tagline.botania.entry.frames=Advanced block movers
+
+botania.page.frames0=&1Frame blocks&0, when used with &1their movers&0, are essentially a more powerful alternative to &4pistons&0 and &4slime blocks&0.<br>They will stick to adjascent blocks and can be: pushed by a &1Frame Pusher&0, pulled by a &1Frame Puller&0, or moved along a direction with the &1Frame Slider&0, frames will move most blocks, including tile entities, making them quite useful.
+botania.page.frames1=For the movers to actually move the frames they require enough &4redstone flux&0 and to be powered by a &4redstone signal&0.<br>Note: A frame mover cannot move itself but it can move other movers. Also, frames cannot connect to the front of a mover.
+botania.page.frames2=Frame Block
+botania.page.frames3=Frame Pusher
+botania.page.frames4=Frame Puller
+botania.page.frames5=Frame Slider
+botania.page.frames6=&1Frame Boosters&0 will, when placed behind a frame mover, provided redstone flux, and powered by a redstone signal: increase the speed of said mover by 100%. This effect can be stacked by using multiple boosters.
+botania.page.frames7=Frame Booster
+
+
+# Lucky Block
+botania.entry.luckyblock=Lucky Blocks
+botania.tagline.botania.entry.luckyblock=You know these
+
+botania.page.luckyblock0=&1Lucky Blocks&0, the infamous pandora box-like blocks will trigger one of many effects when broken. Unfortunately, there's no way of increasing your chances of getting a positive effect.<br>(Make sure you're not holding or are near anything important as some of the negative effects can be very destructive! (and lethal))
+botania.page.luckyblock1=Aw dangit
 
 
 

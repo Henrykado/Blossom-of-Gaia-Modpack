@@ -107,12 +107,13 @@ addTextPage("apipes", "apipes1", 1);
 addCraftingPage("apipes", "apipes2", 2, <additionalpipes:item.buildcraftPipe.pipeitemsaddition>, [[null, <ore:dustRedstone>, null], [<ore:dustRedstone>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>, <ore:dustRedstone>], [null, <ore:dustRedstone>, null]]);
 addCraftingPage("apipes", "apipes3", 3, <additionalpipes:item.buildcraftPipe.pipeliquidsobsidian>, [[<BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian>, <ore:dyeGreen>]]);
 
-addCraftingPage("apipes", "apipes4", 4, <additionalpipes:item.buildcraftPipe.pipeitemsdistributor>, [[null, <ore:dustRedstone>, null], [<ore:ingotIron>, <ore:blockGlass>, <ore:ingotIron>]]);
-addCraftingPage("apipes", "apipes5", 5, <additionalpipes:item.buildcraftPipe.pipeitemspriorityinsertion>, [[<additionalpipes:item.buildcraftPipe.pipeitemsdistributor>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>]]);
-addCraftingPage("apipes", "apipes6", 6, <additionalpipes:item.buildcraftPipe.pipeitemsgravityfeed>, [[null, null, null], [<ore:ingotIron>, <ore:blockGlass>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
-addCraftingPage("apipes", "apipes7", 7, <additionalpipes:item.buildcraftPipe.pipeswitchitems>, [[<ore:gearGold>, <ore:blockGlass>, <ore:gearIron>]]);
-addCraftingPage("apipes", "apipes8", 8, <additionalpipes:item.buildcraftPipe.pipeitemsclosed>, [[<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood>, <BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone>]]);
-addCraftingPage("apipes", "apipes9", 9, <additionalpipes:item.buildcraftPipe.pipeitemsjeweled>, [[null, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, null], [<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, <ore:gearGold>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>], [null, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, null]]);
+addTextPage("apipes", "apipesX", 4);
+addCraftingPage("apipes", "apipes4", 5, <additionalpipes:item.buildcraftPipe.pipeitemsdistributor>, [[null, <ore:dustRedstone>, null], [<ore:ingotIron>, <ore:blockGlass>, <ore:ingotIron>]]);
+addCraftingPage("apipes", "apipes5", 6, <additionalpipes:item.buildcraftPipe.pipeitemspriorityinsertion>, [[<additionalpipes:item.buildcraftPipe.pipeitemsdistributor>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>]]);
+addCraftingPage("apipes", "apipes6", 7, <additionalpipes:item.buildcraftPipe.pipeitemsgravityfeed>, [[null, null, null], [<ore:ingotIron>, <ore:blockGlass>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
+addCraftingPage("apipes", "apipes7", 8, <additionalpipes:item.buildcraftPipe.pipeswitchitems>, [[<ore:gearGold>, <ore:blockGlass>, <ore:gearIron>]]);
+addCraftingPage("apipes", "apipes8", 9, <additionalpipes:item.buildcraftPipe.pipeitemsclosed>, [[<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood>, <BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone>]]);
+addCraftingPage("apipes", "apipes9", 10, <additionalpipes:item.buildcraftPipe.pipeitemsjeweled>, [[null, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, null], [<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, <ore:gearGold>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>], [null, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:*>, null]]);
 
 
 # Engines
@@ -564,3 +565,23 @@ addCraftingPage("robots", "robots9", 9, <BuildCraft|Robotics:zonePlan>, [[<ore:i
 #addTextPage("lensfilters", "lensfilters0", 0);
 #addCraftingPage("lensfilters", "lensfilters0", 0);
 #addCraftingPage("lensfilters", "lensfilters0", 0);
+
+
+# Funky Locomotion
+addEntry("buildcraft", "frames", <funkylocomotion:frame>);
+
+addTextPage("frames", "frames0", 0);
+addTextPage("frames", "frames1", 1);
+addCraftingPage("frames", "frames2", 2, <funkylocomotion:frame>, [[<minecraft:heavy_weighted_pressure_plate:*>, <minecraft:heavy_weighted_pressure_plate:*>, <minecraft:heavy_weighted_pressure_plate:*>], [<ore:nuggetIron>, null, <ore:nuggetIron>], [<minecraft:heavy_weighted_pressure_plate:*>, <minecraft:heavy_weighted_pressure_plate:*>, <minecraft:heavy_weighted_pressure_plate:*>]]);
+addCraftingPage("frames", "frames3", 3, <funkylocomotion:pusher>, [[<BuildCraft|Core:ironGearItem>, <minecraft:ender_pearl>, <ore:gearIron>], [<minecraft:obsidian>, <minecraft:piston>, <minecraft:obsidian>], [<minecraft:obsidian>, <ore:gemDiamond>, <minecraft:obsidian>]]);
+addCraftingPage("frames", "frames4", 4, <funkylocomotion:pusher:6>, [[<minecraft:redstone_torch>], [<funkylocomotion:pusher>]]);
+addCraftingPage("frames", "frames5", 5, <funkylocomotion:slider>, [[<minecraft:dye:4>], [<funkylocomotion:pusher>]]);
+addTextPage("frames", "frames6", 6);
+addCraftingPage("frames", "frames7", 7, <funkylocomotion:booster>, [[<BuildCraft|Core:goldGearItem>, <minecraft:dye:11>, <BuildCraft|Core:goldGearItem>], [<minecraft:obsidian>, <minecraft:piston>, <minecraft:obsidian>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
+
+
+# Lucky Block
+addEntry("misc", "luckyblock", <lucky:lucky_block>);
+
+addTextPage("luckyblock", "luckyblock0", 0);
+addCraftingPage("luckyblock", "luckyblock1", 1, <lucky:lucky_block> * 8, [[<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>], [<ore:ingotGold>, <ore:runeGreedB>, <ore:ingotGold>], [<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>]]);

@@ -12,6 +12,11 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<funkylocomotion:slider>);
+recipes.remove(<funkylocomotion:booster>);
+recipes.remove(<funkylocomotion:pusher:6>);
+recipes.remove(<funkylocomotion:pusher>);
+recipes.remove(<lucky:lucky_block>);
 recipes.remove(<BuildCraft|Silicon:packagerBlock>);
 recipes.remove(<ThaumicExploration:blankSeal>);
 recipes.remove(<ThaumicExploration:blankSeal:15>);
@@ -121,6 +126,11 @@ recipes.addShapeless(<additionalpipes:item.buildcraftPipe.pipeitemspriorityinser
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<funkylocomotion:pusher>, [[<BuildCraft|Core:ironGearItem>, <minecraft:ender_pearl>, <ore:gearIron>], [<minecraft:obsidian>, <minecraft:piston>, <minecraft:obsidian>], [<minecraft:obsidian>, <ore:gemDiamond>, <minecraft:obsidian>]]);
+recipes.addShaped(<funkylocomotion:slider>, [[<minecraft:dye:4>], [<funkylocomotion:pusher>]]);
+recipes.addShaped(<funkylocomotion:pusher:6>, [[<minecraft:redstone_torch>], [<funkylocomotion:pusher>]]);
+recipes.addShaped(<funkylocomotion:booster>, [[<BuildCraft|Core:goldGearItem>, <minecraft:dye:11>, <BuildCraft|Core:goldGearItem>], [<minecraft:obsidian>, <minecraft:piston>, <minecraft:obsidian>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
+recipes.addShaped(<lucky:lucky_block> * 8, [[<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>], [<ore:ingotGold>, <ore:runeGreedB>, <ore:ingotGold>], [<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>]]);
 recipes.addShaped(<gaiablossom:dead_leaves> * 8, [[<gaiablossom:autumn_red>]]);
 recipes.addShaped(<gaiablossom:dead_leaves> * 8, [[<gaiablossom:autumn_orange>]]);
 recipes.addShaped(<gaiablossom:icystone> * 2, [[<ore:cobblestone>, <minecraft:ice>], [<minecraft:ice>, <ore:cobblestone>]]);
